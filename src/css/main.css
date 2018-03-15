@@ -285,9 +285,8 @@ part6: 网站主要内容
 }
 
 /* part6.2: 滚动广告 */
-.ad{
-    display: none;
-}
+
+
 
 /* part6.3: 平台特点 */
 .feature{
